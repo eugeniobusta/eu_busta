@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Busta%20Codes&fontSize=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Eugenio_Bustamante%20Codes&fontSize=50&animation=fadeIn)
 
 # Eugenio Bustamante
 
