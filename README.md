@@ -28,3 +28,11 @@ Currently learning Python, HTML, CSS, JavaScript, React and C.
 ---
 
 **Contact:** [LinkedIn](#) · [Email](#)  
+
+---
+
+## 📊 GitHub Stats
+
+![Busta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninobust23&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninobust23&layout=compact&theme=tokyonight)
