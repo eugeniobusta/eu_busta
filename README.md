@@ -1,4 +1,6 @@
-# Busta
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Busta%20Codes&fontSize=50&animation=fadeIn)
+
+# Eugenio Bustamante
 
 Computer Science student interested in how hardware and software connect to create practical systems.  
 Currently learning Python, HTML, CSS, JavaScript, React and C.
